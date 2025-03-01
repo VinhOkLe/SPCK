@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "title": "Die With A Smile",
+        "singer": "Lady Gaga and Bruno Mars",
+        "musician": "Kenny Loggins",
+        "img": "https://tse3.mm.bing.net/th?id=OIP.pkrmK6KrojRz5zszHWzs0QHaHa&pid=Api&P=0&h=220",
+        "video":"https://youtu.be/kPa7bsKwL-c"
+    },
+    {
+        "id": 2,
+        "title": "Shape of You",
+        "singer": "Ed Sheeran",
+        "musician": "Ed Sheeran",
+        "img": "https://tse2.mm.bing.net/th?id=OIP.iWwyQNMQN8_n13qoovf2gAHaHa&pid=Api&P=0&h=220",
+        "video":"https://youtu.be/JGwWNGJdvx8"
+    },
+    {
+        "id": 3,
+        "title": "Blinding Lights",
+        "singer": "The Weeknd",
+        "musician": "The Weeknd",
+        "img": "https://tse1.mm.bing.net/th?id=OIP.ixGAHrJZ4Yl_2vPYNSI2ogHaHa&pid=Api&P=0&h=220",
+        "video":"https://youtu.be/fHI8X4OXluQ"
+    },
+    {
+        "id": 4,
+        "title": "Someone Like You",
+        "singer": "Adele",
+        "musician": "Adele",
+        "img": "https://tse3.mm.bing.net/th?id=OIP.LzfoUOnYnVq2OO_krcp4OwHaHa&pid=Api&P=0&h=220",
+        "video":"https://youtu.be/hLQl3WQQoQ0"
+    },
+    {
+        "id": 5,
+        "title": "Rolling in the Deep",
+        "singer": "Adele",
+        "musician": "Adele",
+        "img": "https://tse1.mm.bing.net/th?id=OIP.YDb1sagl9Nvu5UJb_5yvqgHaHa&pid=Api&P=0&h=220",
+        "video":"https://youtu.be/rYEDA3JcQqw"
+    },
+    {
+        "id": 6,
+        "title": "Uptown Funk",
+        "singer": "Mark Ronson",
+        "musician": "Bruno Mars",
+        "img": "https://tse3.mm.bing.net/th?id=OIP.tC3uO_t3BiH-LedBT0saLQHaHa&pid=Api&P=0&h=220",
+        "video":"https://youtu.be/OPf0YbXqDm0"
+    },
+    {
+        "id": 7,
+        "title": "Thinking Out Loud",
+        "singer": "Ed Sheeran",
+        "musician": "Ed Sheeran",
+        "img": "https://tse4.mm.bing.net/th?id=OIP.ubJxxpgtv-TFYHNuYezbBAHaEK&pid=Api&P=0&h=220",
+        "video":"https://youtu.be/lp-EO5I60KA"
+    },
+    {
+        "id": 8,
+        "title": "Bad Guy",
+        "singer": "Billie Eilish",
+        "musician": "Billie Eilish",
+        "img": "https://tse3.mm.bing.net/th?id=OIP.wyP6uwLc8LGf2qJDE_cSUQHaEK&pid=Api&P=0&h=220",
+        "video":"https://youtu.be/DyDfgMOUjCI"
+    },
+    {
+        "id": 9,
+        "title": "Stay",
+        "singer": "Rihanna",
+        "musician": "Rihanna",
+        "img": "https://tse4.mm.bing.net/th?id=OIP.LSiS9uqovfjIAsg942-KtgHaHa&pid=Api&P=0&h=220",
+        "video":"https://youtu.be/kTJczUoc26U"
+    },
+    {
+        "id": 10,
+        "title": "Watermelon Sugar",
+        "singer": "Harry Styles",
+        "musician": "Harry Styles",
+        "img": "https://tse4.mm.bing.net/th?id=OIP.CdhmuFoaFTtPfYkKCjs9bAHaEK&pid=Api&P=0&h=220",
+        "video":"https://youtu.be/E07s5ZYygMg"
+    },
+    {
+        "id": 11,
+        "title": "Dance Monkey",
+        "singer": "Tones and I",
+        "musician": "Tones and I",
+        "img": "https://tse2.mm.bing.net/th?id=OIP.609LeaqONLUpsZdNwgxVJgHaEK&pid=Api&P=0&h=220",
+        "video":"https://youtu.be/q0hyYWKXF0Q"
+    },
+    {
+        "id": 12,
+        "title": "Old Town Road",
+        "singer": "Lil Nas X",
+        "musician": "Lil Nas X",
+        "img": "https://tse3.mm.bing.net/th?id=OIP.bU39SQ_0wKPKRGhHoT19DwHaHa&pid=Api&P=0&h=220",
+        "video":"https://youtu.be/r7qovpFAGrQ"
+    },
+    {
+        "id": 13,
+        "title": "Shallow",
+        "singer": "Lady Gaga",
+        "musician": "Lady Gaga",
+        "img": "https://tse1.mm.bing.net/th?id=OIP.f5NpL_ihdz6d8pQMuzFFIAHaHa&pid=Api&P=0&h=220",
+        "video":"https://youtu.be/bo_efYhYU2A"
+    },
+    {
+        "id": 14,
+        "title": "Happier",
+        "singer": "Marshmello",
+        "musician": "Bastille",
+        "img": "https://tse4.mm.bing.net/th?id=OIP.rPprxKdAxZJxTx9LxsIJ3AHaHa&pid=Api&P=0&h=220",
+        "video":"https://youtu.be/m7Bc3pLyij0"
+    },
+    {
+        "id": 15,
+        "title": "Perfect",
+        "singer": "Ed Sheeran",
+        "musician": "Ed Sheeran",
+        "img": "https://tse4.mm.bing.net/th?id=OIP.qdx9BUQVKZ3K0-_i4zBA1QHaHO&pid=Api&P=0&h=220",
+        "video":"https://youtu.be/2Vv-BfVoq4g"
+    },
+    {
+        "id": 16,
+        "title": "Say You Won't Let Go",
+        "singer": "James Arthur",
+        "musician": "James Arthur",
+        "img": "https://tse2.mm.bing.net/th?id=OIP.I60RK9GCXQ06ooUPgXoVzgHaFj&pid=Api&P=0&h=220",
+        "video":"https://youtu.be/0yW7w8F2TVA"
+    },
+    {
+        "id": 17,
+        "title": "All of Me",
+        "singer": "John Legend",
+        "musician": "John Legend",
+        "img": "https://tse3.mm.bing.net/th?id=OIP.59kQG1G1nRjPMdcH9oRLSgHaHa&pid=Api&P=0&h=220",
+        "video":"https://youtu.be/450p7goxZqg"
+    },
+    {
+        "id": 18,
+        "title": "Just the Way You Are",
+        "singer": "Bruno Mars",
+        "musician": "Bruno Mars",
+        "img": "https://tse2.mm.bing.net/th?id=OIP.OypOu7dGJNh5tiLVkJ-e1gHaHa&pid=Api&P=0&h=220",
+        "video":"https://youtu.be/LjhCEhWiKXk"
+    },
+    {
+        "id": 19,
+        "title": "I Will Always Love You",
+        "singer": "Whitney Houston",
+        "musician": "Dolly Parton",
+        "img": "https://tse2.mm.bing.net/th?id=OIP.f3qFTExB9TlMVZ93O-P0xAHaEK&pid=Api&P=0&h=220",
+        "video":"https://youtu.be/3JWTaaS7LdU"
+    },
+    {
+        "id": 20,
+        "title": "My Heart Will Go On",
+        "singer": "Celine Dion",
+        "musician": "James Horner",
+        "img": "https://tse3.mm.bing.net/th?id=OIP.S35h-donnT2TfTKFdk2figHaEK&pid=Api&P=0&h=220",
+        "video":"https://youtu.be/IAuRoAUV19o"
+    },
+    {
+        "id": 21,
+        "title": "Her",
+        "singer": "JVKE",
+        "musician": "JVKE",
+        "img": "https://tse2.mm.bing.net/th?id=OIP.RH2qYcCXfp67lF503FZffAHaFj&pid=Api&P=0&h=220",
+        "video":"https://youtu.be/f5-IY_Ja1RM"
+    },
+    {
+        "id": 22,
+        "title": "Daylight",
+        "singer": "David Kushner",
+        "musician": "David Kushner",
+        "img": "https://tse2.mm.bing.net/th?id=OIP.5DgWGl8B2_wB_HuHCh_E3AHaHa&pid=Api&P=0&h=220",
+        "video":"https://youtu.be/MoN9ql6Yymw"
+    },
+    {
+        "id": 23,
+        "title": "Hymn For The Weekend",
+        "singer": "Coldplay and Beyoncé",
+        "musician": "Coldplay",
+        "img": "https://tse3.mm.bing.net/th?id=OIP.5AEcoGJXN7R-FQmQvmEnMAHaEM&pid=Api&P=0&h=220",
+        "video":"https://youtu.be/YykjpeuMNEk"
+    },
+    {
+        "id": 24,
+        "title": "That Girl",
+        "singer": "Olly Murs",
+        "musician": "Olly Murs",
+        "img": "https://tse3.mm.bing.net/th?id=OIP.vfuBm9-WROSm4BmlFG1hEAHaEK&pid=Api&P=0&h=220",
+        "video":"https://youtu.be/f_LgWgzCPnQ"
+    },
+    {
+        "id": 25,
+        "title": "Golden Hour",
+        "singer": "JVKE",
+        "musician": "JVKE",
+        "img": "https://tse4.mm.bing.net/th?id=OIP.g1TCQeAjwCx5tfmCEN4tYgHaEK&pid=Api&P=0&h=220",
+        "video":"https://youtu.be/PEM0Vs8jf1w"
+    }
+]

@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Music Search</title>
+    <link rel="icon" href="./assets/img/logo.png">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css"
+    integrity="sha512-5Hs3dF2AEPkpNAR7UiOHba+lRSJNeM2ECkwxUIxC1Q/FLycGTbNapWXB4tP889k5T5Ju8fs4b1P5z/iB4nMfSQ=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="./CSS/style.css">
+    <link rel="stylesheet" href="./CSS/search.css">
+
+
+</head>
+<body>
+    <header class="header">
+        <div class="logo">
+            <img src="./assets/img/logo.png" alt="logo">
+            My Music
+        </div>
+        <nav class="nav">
+            <div class="nav-container">
+                <ul class="nav-links">
+                    <li><a href="./index.html">Main page</a></li>
+                    <li><a href="#">Nổi bật</a></li>
+                    <li><a href="#">Singer</a></li>
+                    <li><a href="#">Like</a></li>
+                    <li class="dropdown">
+                        <a href="#">Xem thêm <i class="fa-solid fa-caret-down"></i></a>
+                        <ul class="dropdown-content">
+                            <li><a href="#">Setting</a></li>
+                            <li><a href="#">Thông báo</a></li>
+                            <li><a href="#">Type</a></li>
+                        </ul>
+                    </li>
+                </ul>
+                <div class="icons">
+                    <a href="./search.html"><i class="fa-solid fa-magnifying-glass"></i></a>
+                    <a href="./login.html"><div id="avatar-action-container"> Đăng nhập</div></a>
+                </div>
+            </div>
+            <div class="menu-toggle">
+                <i class="fa-solid fa-bars"></i>
+            </div>
+        </nav>
+    </header>
+    <main>
+        <form action="" id="search-form">
+            <h1>Tìm kiếm nhạc bạn muốn ở đây</h1>
+            <div>
+                <input type="text" id="search-input" placeholder="Enter the song name" autocomplete="off">
+                <button type="submit">
+                    <i class="fa-solid fa-magnifying-glass"></i>
+                </button>
+            </div>
+        </form>
+        <div id="musics">
+            <div class="song">
+              
+            </div>
+        </div>
+    </main>
+
+    <script type="module" src="./JS/search.js"></script>
+</body>
+</html>
